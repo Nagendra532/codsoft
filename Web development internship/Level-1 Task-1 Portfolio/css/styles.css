@@ -1,0 +1,53 @@
+
+.navbar-logo, footer img, .loginimg{
+    width: 40px; 
+    height: auto;
+}
+
+footer img{
+    float: right;
+    margin-right: 10px;
+      
+}
+
+.heading{
+    color:rgb(255,0,0);
+    text-align: center;
+    font-size: 30px;
+}
+
+.imgchange{
+    max-width: 50px; 
+    max-height: 50px; 
+    width: 100%;
+    height: auto;
+    align-content: center;
+}
+
+.imgcard{
+    max-width: 600px; 
+    max-height: 200px; 
+    width: 100%;
+    height: auto;
+    align-content: center;
+}
+
+ul.inline-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+ul.inline-list li {
+    display: inline-block;
+ }
+
+ #resume a {
+    display: inline-block;
+    background-color: #ff66aa;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
